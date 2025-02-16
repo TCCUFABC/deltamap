@@ -1,0 +1,21 @@
+# Metadados - Arquivos Geoespaciais do Delta Norte da Foz do Amazonas
+
+Aqui serao inseridos os metadados dos arquivos que ficarão na pasta data.
+
+exemplo:
+
+Arquivo: imagem_satellite_2024.tif
+Descrição: Imagem de satélite do Delta Norte, coletada em janeiro de 2024.
+Fonte: Sentinel-2
+Projeção: EPSG:4326
+Resolução: 10m
+
+Arquivo: estacoes_monitoramento.shp
+Descrição: Shapefile contendo pontos de estações de monitoramento ambiental.
+Fonte: Dados coletados por sensores in situ.
+Sistema de Coordenadas: EPSG:4674
+
+Arquivo: relatorio_impacto_ambiental.pdf
+Descrição: Relatório técnico sobre impacto ambiental na região da Foz do Amazonas.
+Autor: Equipe do projeto
+Ano: 2024
