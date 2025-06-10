@@ -1,0 +1,67 @@
+# Metadados - Arquivos Geoespaciais do Delta Norte da Foz do Amazonas
+
+Aqui serao inseridos os metadados dos arquivos que ficarão na pasta data.
+
+exemplo:
+
+Arquivo: imagem_satellite_2024.tif
+Descrição: Imagem de satélite do Delta Norte, coletada em janeiro de 2024.
+Fonte: Sentinel-2
+Projeção: EPSG:4326
+Resolução: 10m
+
+Arquivo: estacoes_monitoramento.shp
+Descrição: Shapefile contendo pontos de estações de monitoramento ambiental.
+Fonte: Dados coletados por sensores in situ.
+Sistema de Coordenadas: EPSG:4674
+
+Arquivo: relatorio_impacto_ambiental.pdf
+Descrição: Relatório técnico sobre impacto ambiental na região da Foz do Amazonas.
+Autor: Equipe do projeto
+Ano: 2024
+
+
+Geral
+
+Nome
+area de estudo
+Caminho
+C:\Users\NOTE\Desktop\dados amazonia\area de estudo.shp
+Arquivos laterais
+area de estudo.dbf, area de estudo.sbn, area de estudo.prj, area de estudo.sbx, area de estudo.shp.xml, area de estudo.shx, area de estudo.cpg
+Tamanho total
+2 KB
+Última modificação
+sábado, 8 de fevereiro de 2025 18:24:46 Hora oficial do Brasil (area de estudo.shp)
+Provedor
+ogr
+
+
+
+Informação do provedor
+
+Armazenamento
+ESRI Shapefile
+Codificação
+UTF-8
+Geometria
+Polygon (MultiPolygon)
+Extensão
+-51.5834603507894940,-0.5640864959033820 : -48.5038507776080223,1.0549014572327451
+Contagem de feições
+1
+
+
+
+Sistema de referência de coordenadas (SRC)
+
+Nome
+EPSG:4674 - SIRGAS 2000
+Unidades
+Geográfica (usa latitude e longitude para coordenadas)
+Método
+Lat/long (Geodetic alias)
+Corpo celestial
+Earth
+Referência
+Estático (depende de um dado que está fixado em placa)
