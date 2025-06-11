@@ -34,7 +34,6 @@
 │   ├── gitbash/             # Bash: git_interactions.sh para versionamento via terminal
 │   └── python/              # python_postgis_colab.py e análises geoespaciais em Colab
 ├── notebooks/               # Exploração e prototipagem (Jupyter Notebooks)
-└── docs/                    # Documentação adicional, diagramas e referências
 ```
 
 ---
@@ -113,14 +112,6 @@ Antes de iniciar, verifique se você possui instalado:
   ```
 * No GitHub, clique em **Compare & pull request**, descreva as alterações e submeta para revisão.
 
----
-
-📖 Contribuição e Governança
-
-1. Abra uma **issue** para discutir mudanças significativas.
-2. Use **issues** e **projects** para organizar tarefas e papéis.
-3. Mantenha **commits** pequenos e descritivos.
-4. Siga as regras de **code review** definidas em `docs/governance.md`.
 
 ---
 
